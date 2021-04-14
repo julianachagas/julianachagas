@@ -6,15 +6,13 @@ currently making a career change.</p>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>  
-  
+  </a>   
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula"/></a>
 <div>
 <div style="display: inline_block"><br>   
-  <a href="https://github.com/julianachagas">
   <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp; </a>
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;&nbsp; 
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
