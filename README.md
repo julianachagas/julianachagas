@@ -6,9 +6,10 @@ currently making a career change.</p>
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>   
+  </a>  
+  &nbsp; 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula"/></a>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula"/></a>
 <div>
 <div style="display: inline_block"><br>   
   <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
