@@ -18,6 +18,7 @@ currently making a career change.</p>
   &nbsp;&nbsp;&nbsp; 
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 </div>
+
 ##
 <div>
   <a href="https://github.com/julianachagas"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
