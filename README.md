@@ -14,11 +14,10 @@ currently making a career change.</p>
 <div style="display: inline_block"><br>   
   <a href="https://github.com/julianachagas">
   <img align="center" alt="Juliana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp; </a>
   <img align="center" alt="Juliana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;&nbsp; 
-  <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  </a>
+  <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
 </div>
 
 ##
