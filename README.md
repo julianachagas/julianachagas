@@ -1,6 +1,5 @@
 ## Hello there! I'm Juliana. 👋🏼
-I'm a Brazilian civil engineer with a master's degree in geotechnical engineering
-currently making a career change. 
+I'm a Brazilian civil engineer currently making a career change. 
 
 I'm passionate about technology and my goal is to become a front-end developer.
 
