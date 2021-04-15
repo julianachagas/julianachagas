@@ -1,4 +1,4 @@
-## Hello there! I'm Juliana. 
+## Hello there! I'm Juliana. 👋🏼
 I'm a Brazilian civil engineer with a master's degree in geotechnical engineering
 currently making a career change. 
 
@@ -8,7 +8,7 @@ I'm passionate about technology and my goal is to become a front-end developer.
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&include_all_commits=true"/>
   </a>  
-  &nbsp;&nbsp; 
+  &nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula"/></a>
 <div>
