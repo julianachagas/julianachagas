@@ -1,7 +1,19 @@
 ## Hello there! I'm Juliana. 👋🏼
-I'm a Brazilian civil engineer currently making a career change. 
 
-I'm passionate about technology and my goal is to become a front-end developer.
+👩🏻‍💻 I'm a Brazilian civil engineer currently making a transition to web development. I'm following my passion for coding and design and my goal is to become a front-end developer. 
+
+💡 Skills:
+
+- HTML | CSS | JavaScript | Git | Visual Studio Code | Figma
+
+📚 Certifications:
+- <a href="https://www.freecodecamp.org/certification/julianachagas/responsive-web-design">Responsive Web Design Certification</a> from freeCodeCamp.
+
+🌱 Currently doing freeCodeCamp's <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures Certification</a>.
+
+🌐 I have a great interest in working remotely for a company in another country.
+
+💗 When I’m not coding and studying, you can find me immersed in books and films, daydreaming about my next trip, playing the piano, and cuddling my dogs.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
