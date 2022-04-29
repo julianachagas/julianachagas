@@ -8,8 +8,7 @@
 
 📚 Certifications:
 - <a href="https://www.freecodecamp.org/certification/julianachagas/responsive-web-design">Responsive Web Design Certification</a> from freeCodeCamp.
-
-🌱 Currently doing freeCodeCamp's <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">JavaScript Algorithms and Data Structures Certification</a>.
+- <a href="https://www.freecodecamp.org/certification/julianachagas/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Certification</a> from freeCodeCamp.
 
 🌐 I have a great interest in working remotely for a company in another country.
 
