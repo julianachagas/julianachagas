@@ -10,9 +10,9 @@
 - <a href="https://www.freecodecamp.org/certification/julianachagas/responsive-web-design">Responsive Web Design Certification</a> from freeCodeCamp.
 - <a href="https://www.freecodecamp.org/certification/julianachagas/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Certification</a> from freeCodeCamp.
 
-🌐 I have a great interest in working remotely for a company in another country.
+🌱 Currently doing the "Modern JavaScript (from Novice to Ninja)" course from <a href="https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/">The Net Ninja.</a>
 
-💗 When I’m not coding and studying, you can find me immersed in books and films, daydreaming about my next trip, playing the piano, and cuddling my dogs.
+***
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,11 +32,17 @@
 
 ##
 <div>
-  <a href="https://www.linkedin.com/in/juliana-chagas-8a2943a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/juliana-chagas-8a2943a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href = "mailto: julianavrchagas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+  <a href="" target="_blank"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/julianachagas" target="_blank"><img  src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/julianachagas" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "mailto: julianavrchagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/julianachagas"><img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/julianachagas" target="_blank"><img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
   
 </div>
