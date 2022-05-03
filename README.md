@@ -1,6 +1,6 @@
 ## Hello there! I'm Juliana. 👋🏼
 
-👩🏻‍💻 I'm a Brazilian civil engineer currently making a transition to web development. I'm following my passion for coding and design and my goal is to become a front-end developer. 
+👩🏻‍💻 I'm a Brazilian civil engineer currently making a transition into web development. I'm following my passion for coding and design and my goal is to become a front-end developer. 
 
 💡 Skills:
 
