@@ -1,14 +1,12 @@
 ## Hello there! I'm Juliana. 👋🏼
 
-👩🏻‍💻 I'm a Brazilian civil engineer currently making a transition into web development. I’m focused on improving my coding and problem-solving skills, always trying to create a clean, efficient, and accessible code that provides an optimal user experience.
+👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
 
 🌱 Currently doing the "Modern JavaScript (from Novice to Ninja)" course from <a href="https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/">The Net Ninja.</a>
 
-🖥️ I’m eager to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
+📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
-📚 Certifications:
-- <a href="https://www.freecodecamp.org/certification/julianachagas/responsive-web-design">Responsive Web Design Certification</a> from freeCodeCamp.
-- <a href="https://www.freecodecamp.org/certification/julianachagas/javascript-algorithms-and-data-structures">JavaScript Algorithms and Data Structures Certification</a> from freeCodeCamp.
+🖥️ I’m eager to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
 
 💡 Skills:
 
