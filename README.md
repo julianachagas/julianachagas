@@ -2,8 +2,6 @@
 
 👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
 
-🌱 Currently doing the "Modern JavaScript (from Novice to Ninja)" course from <a href="https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/">The Net Ninja.</a>
-
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
 🖥️ I’m eager to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
