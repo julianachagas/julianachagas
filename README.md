@@ -1,29 +1,34 @@
-## Hello there! I'm Juliana. 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
+
+🌱 Currently practicing JavaScript.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
 🖥️ I’m eager to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
 
-💡 Skills:
+##
+#### 💡 Skills:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;
   <img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   &nbsp;
+   <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   &nbsp;
   <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+   &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-<br>
 
-📈 Stats:
+##
+#### 📈 Stats:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
