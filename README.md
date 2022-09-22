@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6E96&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1AFFF&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
 
@@ -31,12 +31,12 @@
 #### 📈 Stats:
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </a>  
+  <a href="https://github.com/julianachagas">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&title_color=c1afff&bg_color=1F202A&hide=contribs&include_all_commits=true"/>
+  </a>
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula"/></a>
+  <a href="https://github.com/julianachagas">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula&title_color=c1afff&bg_color=1F202A"/></a>
 <div>
 
 ##
