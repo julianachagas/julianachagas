@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
 
-🌱 Currently practicing JavaScript.
+🌱 Currently learning ReactJS.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
