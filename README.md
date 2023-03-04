@@ -42,7 +42,7 @@
 
 <div>
   <a href="https://github.com/julianachagas">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&title_color=c1afff&bg_color=1F202A&hide=contribs&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&title_color=c1afff&bg_color=1F202A&hide=contribs&include_all_commits=true"/>
   </a>
   &nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/julianachagas">
