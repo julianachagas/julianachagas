@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m making a career transition into Front-end Development, coming from a background in Civil Engineering.
 
-🌱 Currently practicing ReactJS and TypeScript.
+🌱 Currently developing personal projects to practice ReactJS and TypeScript.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
