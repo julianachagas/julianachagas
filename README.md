@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1AFFF&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-👩🏻‍💻 I'm a Brazilian civil engineer making a transition into front-end development.
+👩🏻‍💻 I’m making a career transition into Front-end Development, coming from a background in Civil Engineering.
 
-🌱 Currently practicing ReactJS and Redux.
+🌱 Currently practicing ReactJS and TypeScript.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
 
-🖥️ I’m eager to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
+🖥️ I’m motivated to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
 
 ##
 #### 💡 Skills:
@@ -17,17 +17,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   &nbsp;
   <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   &nbsp;
+  <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    &nbsp;  
   <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     &nbsp;
-   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  &nbsp;
-  <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">  
 </div>
 
 <br>
 
-<div> 
+<div>
+  <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+   &nbsp;
   <img  src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    &nbsp;  
    <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
