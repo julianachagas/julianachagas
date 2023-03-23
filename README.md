@@ -4,7 +4,7 @@
 
 🌱 Currently developing personal projects to practice ReactJS and TypeScript.
 
-📚 I’m focused on improving my coding and problem-solving skills, always trying to create a clean and accessible code that provides an optimal user experience.
+📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code that provides an optimal and accessible user experience.
 
 🖥️ I’m motivated to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
 
