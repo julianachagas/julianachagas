@@ -9,7 +9,7 @@
 🖥️ I’m motivated to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
 
 ##
-#### 💡 Skills:
+### 💡 Skills:
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -40,7 +40,7 @@
 </div>
 
 ##
-#### 📈 Stats:
+### 📈 Stats:
 
 <div>
   <a href="https://github.com/julianachagas">
