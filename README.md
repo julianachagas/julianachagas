@@ -6,7 +6,7 @@
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code that provides an optimal and accessible user experience.
 
-🖥️ I’m motivated to keep learning and improving myself and I’m looking for an opportunity as a Front-end Developer.
+🖥️ I’m motivated to keep learning and I’m looking for an opportunity as a Front-end Developer.
 
 ##
 ### 💡 Skills:
