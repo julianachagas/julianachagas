@@ -2,11 +2,13 @@
 
 👩🏻‍💻 I’m making a career transition into Front-end Development, coming from a background in Civil Engineering.
 
+💜 I'm passionate about bringing designs to life through code and creating functional and aesthetically pleasing web applications.
+
 🌱 Currently developing personal projects to practice ReactJS and TypeScript.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code that provides an optimal and accessible user experience.
 
-🖥️ I’m motivated to keep learning and I’m looking for an opportunity as a Front-end Developer.
+🖥️ I'm looking forward to an opportunity as a Front-end Developer where I can contribute my skills and knowledge to develop challenging projects and keep learning and improving myself.
 
 ##
 ### 💡 Skills:
