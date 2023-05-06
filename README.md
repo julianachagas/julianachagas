@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1AFFF&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-👩🏻‍💻 I’m making a career transition into Front-end Development, coming from a background in Civil Engineering.
+👩🏻‍💻 I’m passionate about coding and design and I’ve made a career transition into Front-end Development, coming from a background in Civil Engineering.
 
-💜 I'm passionate about bringing designs to life through code and creating functional and aesthetically pleasing web applications.
+💜 I love bringing designs to life through code and creating functional and aesthetically pleasing web applications.
 
 🌱 Currently developing personal projects to practice ReactJS and TypeScript.
 
-📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code that provides an optimal and accessible user experience.
+📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code.
 
-🖥️ I'm looking forward to an opportunity as a Front-end Developer where I can contribute my skills and knowledge to develop challenging projects and keep learning and improving myself.
+🖥️ I'm looking for an opportunity as a Front-end Developer where I can collaborate with other professionals in developing projects that enhance people's lives and keep learning and improving myself.
 
 ##
 ### 💡 Skills:
