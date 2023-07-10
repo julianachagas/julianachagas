@@ -8,8 +8,6 @@
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code.
 
-🖥️ I'm looking for an opportunity as a Front-end Developer where I can collaborate with other professionals in developing projects that enhance people's lives and keep learning and improving myself.
-
 ##
 ### 💡 Skills:
 
