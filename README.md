@@ -4,7 +4,7 @@
 
 💜 I love bringing designs to life through code and creating functional and aesthetically pleasing web applications.
 
-🌱 Currently developing personal projects to practice ReactJS and TypeScript.
+🌱 Currently working as a Front-end Developer in a startup and developing personal projects using ReactJS and TypeScript.
 
 📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code.
 
