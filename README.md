@@ -1,12 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C1AFFF&vCenter=true&width=435&height=30&lines=Hello+there!+I'm+Juliana+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-👩🏻‍💻 I’m passionate about coding and design and I’ve made a career transition into Front-end Development, coming from a background in Civil Engineering.
+👩🏻‍💻 I’m passionate about coding and design and I’ve made a career transition into Web Development, coming from a background in Civil Engineering.
 
-💜 I love bringing designs to life through code and creating functional and aesthetically pleasing web applications.
-
-🌱 Currently working as a Front-end Developer in a startup and developing personal projects using ReactJS and TypeScript.
-
-📚 I’m focused on improving my coding and problem-solving skills, always trying to create clean and efficient code.
+🌱 Currently working as a Developer in a startup and developing personal projects using ReactJS and TypeScript.
 
 ##
 ### 💡 Skills:
@@ -20,9 +16,7 @@
    &nbsp;
   <img  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    &nbsp;  
-  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    &nbsp;
-   <img  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">  
+  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   
 </div>
 
 <br>
@@ -38,18 +32,6 @@
    &nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
-##
-### 📈 Stats:
-
-<div>
-  <a href="https://github.com/julianachagas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julianachagas&show_icons=true&theme=dracula&title_color=c1afff&bg_color=1F202A&hide=contribs&include_all_commits=true"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; 
-  <a href="https://github.com/julianachagas">
-  <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianachagas&layout=compact&theme=dracula&title_color=c1afff&bg_color=1F202A"/></a>
-<div>
 
 ##
 <div>
